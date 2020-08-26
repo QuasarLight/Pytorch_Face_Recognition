@@ -56,13 +56,15 @@ that you have installed the apex and your GPU has TensorCore before use AMP.
 |CASIA-WebFace   |ResNet50-IR  |170MB     |ArcFace|99.4667|93.9333 |95.5571|[BaiduNetDisk](https://pan.baidu.com/s/1H6vgckjqqAer9Rp2pHU_cQ) Extraction code:byqs|
 |CASIA-WebFace   |SEResNet50-IR|171MB     |ArcFace|99.3833|93.9333 |95.5857|[BaiduNetDisk](https://pan.baidu.com/s/19YoVDVB_N6MPR6VGI6tyQg) Extraction code:c355|
 |CASIA-WebFace   |ResNet100-IR |256MB     |ArcFace|99.5833|94.3500 |96.0429|[BaiduNetDisk](https://pan.baidu.com/s/14NoOJjKZar9JUp6fjruB_A) Extraction code:kqsi|
+
 ###(2) MegaFace Rank 1 Identifiaction Accuracy and Verfication TPR@FPR=1e-6 Results
 |Training Dataset|Backbone     |Model Size|Loss   |Identification Rank1 Acc|Verfication TPR@FPR=1e-6|
 |:--------------:|:-----------:|:--------:|:-----:|:----------------------:|:----------------------:|
 |CASIA-WebFace   |MobileFaceNet|4MB       |ArcFace|   68.46                |   83.49                |
 |CASIA-WebFace   |ResNet50-IR  |170MB     |ArcFace|   74.50                |   89.89                |
 |CASIA-WebFace   |SEResNet50-IR|171MB     |ArcFace|   74.72                |   89.41                |
-|CASIA-WebFace   |ResNet100-IR |256MB     |ArcFace|   74.39                |   90.86                | 
+|CASIA-WebFace   |ResNet100-IR |256MB     |ArcFace|   74.39                |   90.86                |
+
 ###(3) The experimental condition :  
 CPU :　　　Intel(R) Xeon(R) Silver 4114 CPU @ 2.20GHz 10 cores 20 threads × 2  
 Memory : 　128GB  
