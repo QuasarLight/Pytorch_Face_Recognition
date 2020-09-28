@@ -19,13 +19,13 @@ Pytorch implementation of mainstream face recognition algorithms(ArcFace, CosFac
   
 (3) **Datasets Preparation**  
 * Training Datasets :   
-    > CASIA-WebFace (453580/10575) [BaiduNetDisk](https://pan.baidu.com/s/1V0679yun1JYYxRmzqiNjdw) *Extraction code* :r9a4   
-    MS-Celeb-1M (3923399/86876)  [BaiduNetDisk](https://pan.baidu.com/s/1n7G3TCKZBaGizQYMoStdsw) *Extraction code* :04al  
+    > CASIA-WebFace (453580/10575)    
+    MS-Celeb-1M (3923399/86876)   
 * Test Datasets :  
-    > LFW [BaiduNetDisk](https://pan.baidu.com/s/1NiWIj552t-yHD0KPBCWz2g) *Extraction code* :o93a   
-    CFP-FP [BaiduNetDisk](https://pan.baidu.com/s/1-uJTJsJrWXgSS4PvvF3b8g) *Extraction code* :h7jo    
-    AgeDB-30 [BaiduNetDisk](https://pan.baidu.com/s/1Qitk-M4h8wp9T2j2uceDgQ) *Extraction code* :dj7g     
-    MegaFace [BaiduNetDisk](https://pan.baidu.com/s/1fHgY83E3jobskr-pGA8KYw) *Extraction code* :pfl2
+    > LFW   
+    CFP-FP    
+    AgeDB-30     
+    MegaFace 
     
 (4) For training datasets, use Utils/Datasets_Utils/generate_dataset_list.py to generate dataset files list.
    
